@@ -279,6 +279,14 @@
       "created_at": "2023-09-20T21:10:30Z",
       "repoId": 385118073,
       "pullRequestNo": 1043
+    },
+    {
+      "name": "PudyJapan",
+      "id": 13039210,
+      "comment_id": 1765296824,
+      "created_at": "2023-10-16T21:20:54Z",
+      "repoId": 385118073,
+      "pullRequestNo": 1069
     }
   ]
 }
